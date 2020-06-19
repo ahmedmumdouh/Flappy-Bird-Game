@@ -1,0 +1,180 @@
+.homePage{
+    padding-top: 90px;
+    background: url(../../img/mainMenuBg.jpg) no-repeat center center;
+    background-position-y: -355px;
+    width: 100%;
+    min-height: 700px;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    -background-size:cover; 
+}
+
+.option{
+    color: dodgerblue;
+    background-color: blue;
+    width: 400px;
+    height: 70px;
+    margin-bottom: 20px;
+    margin-left: 360px;
+    background-color: #343a40;
+    opacity: 0.8;
+    border-radius: 10px;
+    border-top: solid 6px dodgerblue;
+
+}
+
+.difficulty{
+    padding-top: 90px;
+    background: url(../../img/howbg.png) no-repeat center center fixed;
+    width: 100%;
+    min-height: 720px;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    -background-size:cover;
+        
+}
+#next{
+    margin-top: 20px;
+}
+.difficulty h2{
+    margin-bottom: 35px;
+}
+.difficulty .difficulty-box{
+    margin: 10px;
+    text-align: center;
+    background-color: transparent;
+    padding: 10px;
+    border: 1px solid #E41B17;
+}
+.difficulty .difficulty-box h3{
+    font-weight: bold;  
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.difficulty .difficulty-box:hover p{
+    -ms-transform: rotate(360deg); /* IE 9 */
+    -webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
+    transform: rotate(360deg);
+    border: 2px solid #343a40;
+}
+
+.difficulty .difficulty-box:hover a{
+    -webkit-transform: scale(1.1,1.1);
+    -moz-transform: scale(1.1,1.1);
+    -o-transform: scale(1.1,1.1);
+    transform: scale(1.1,1.1)
+    
+}
+
+.difficulty .difficulty-box p{
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    color: #343a40;
+    width: 135px;
+    height: 70px;
+    border-radius: 50%;
+    border-color: white;
+    background-color: #DDD;
+    line-height: 70px;
+    -ms-transition: 0.7s ease-in-out;
+    -webkit-transition: 0.7s ease-in-out;
+    transition: 0.7s ease-in-out;
+    
+    
+}
+
+.difficulty .difficulty-box li{
+    margin: 5px;
+    color: white
+}
+.difficulty .difficulty-box a{
+    margin-bottom: 4px;
+    -webkit-transition-duration:0.5s;
+    -moz-transition-duration:0.5s;
+    -o-transition-duration:0.5s;
+    transition-duration:0.5s;
+}
+
+.ourteam{
+    background: url(../../img/teamwork.jpg) no-repeat center center fixed;
+    width: 100%;
+    min-height: 720px;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    -background-size:cover;
+}
+
+.ourteam .myteam{
+    background: rgba(5,5,5,0.5);
+    color: white;
+    min-height: 720px;
+    padding-top: 15px; 
+    padding-bottom: 15px;
+    
+}
+
+.ourteam h2{
+   margin-bottom: 45px;
+}
+.ourteam .myteam .team-member{
+    margin-bottom: 45px;
+}
+.ourteam .myteam .team-member img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.ourteam .myteam .team-member i{
+    padding-left: 3px;
+    padding-right: 3px;
+    color: white;
+}
+.btn-fb {
+    background-color: #3B5998;
+    color: white
+}
+.btn-li {
+  background: #0e76a8;
+  color: white;
+}
+
+
+.heading2{
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #E41B17
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
